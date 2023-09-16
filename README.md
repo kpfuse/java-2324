@@ -1,6 +1,6 @@
 Лабораторная работа 1. https://drive.google.com/file/d/1JFHXCL4dTATVfkykDpMoFve3Tfl-fJGB/view?usp=sharing 
 
-Лабораторная работа 2. https://drive.google.com/file/d/1qKN0pqOhZ1_ew2Z-sp1lAbPlSApkSO4M/view?usp=drive_link 
+Лабораторная работа 2. https://drive.google.com/file/d/1xFk6HULRawaugVn2TZxoIN_hyhVCaxW0/view?usp=sharing
 
 Как сдать лабораторную работу 01 и индивидуальное домашнее задание
 1) перейти по ссылке https://classroom.github.com/a/tvv4J9JC 

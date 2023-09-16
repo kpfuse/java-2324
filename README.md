@@ -2,6 +2,7 @@
 
 Лабораторная работа 2. https://drive.google.com/file/d/1xFk6HULRawaugVn2TZxoIN_hyhVCaxW0/view?usp=sharing
 
+
 Как сдать лабораторную работу 01 и индивидуальное домашнее задание
 1) перейти по ссылке https://classroom.github.com/a/tvv4J9JC 
 2) войти в свой github-аккаунт (если ранее еще не вошли)

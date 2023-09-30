@@ -1,10 +1,17 @@
-Лабораторная работа 4. https://drive.google.com/file/d/1YsvjalzCCElhm-T_Heut1brRKvukvtPX/view?usp=sharing
+Лабораторная работа 4. https://drive.google.com/file/d/1YsvjalzCCElhm-T_Heut1brRKvukvtPX/view?usp=sharing<br><br>
+Как сдать лабораторную работу 04 - индивидуальные задачи
+1) перейти по ссылке https://classroom.github.com/a/XhXV9l7e
+2) ... 
+получить ссылку на репозиторий для Лаб04 - индивидуальные задачи, загрузить в него java-файлы
+<br><br><br>
 
-<br><br>
+Лабораторная работа 3. https://drive.google.com/file/d/1Dtl5P3fjTPpgji0YMrZkppX_VCKjPKZR/view?usp=sharing<br><br>
+Как сдать лабораторную работу 03
+1) перейти по ссылке https://classroom.github.com/a/3J3OLpda
+2) ... 
+получить ссылку на репозиторий для Лаб03, загрузить в него java-файлы
 
-Лабораторная работа 3. https://drive.google.com/file/d/1Dtl5P3fjTPpgji0YMrZkppX_VCKjPKZR/view?usp=sharing
-
-<br><br>
+<br><br><br>
 Лабораторная работа 2. https://drive.google.com/file/d/1xFk6HULRawaugVn2TZxoIN_hyhVCaxW0/view?usp=sharing
 
 Как сдать лабораторную работу 02 и индивидуальное домашнее задание

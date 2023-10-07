@@ -1,3 +1,7 @@
+Лабораторная работа 5. https://drive.google.com/file/d/1qmRPCr_09x_o5giaaU9OpayW5FM5knfA/view?usp=sharing<br><br>
+Как сдать лабораторную работу 05 - индивидуальные задачи
+
+<br><br>
 Лабораторная работа 4. https://drive.google.com/file/d/1YsvjalzCCElhm-T_Heut1brRKvukvtPX/view?usp=sharing<br><br>
 Как сдать лабораторную работу 04 - индивидуальные задачи
 1) перейти по ссылке https://classroom.github.com/a/XhXV9l7e

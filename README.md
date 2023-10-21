@@ -1,3 +1,10 @@
+Лабораторная работа 7. https://drive.google.com/file/d/1mYWAguxagokyIoJuYLKnN48_85Ejo5A9/view?usp=sharing<br><br>
+Как сдать лабораторную работу 07
+1) перейти по ссылке 
+2) ... <br>
+получить ссылку на репозиторий, загрузить в него java-файлы
+<br><br><br>
+
 Лабораторная работа 6. https://drive.google.com/file/d/15up0gFXZ9nvBki2hN0VmcRSXcooLCGln/view?usp=sharing<br><br>
 Как сдать лабораторную работу 06 + индивидуальные задачи
 1) перейти по ссылке 

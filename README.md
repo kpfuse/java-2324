@@ -3,7 +3,7 @@
 1) перейти по ссылке https://classroom.github.com/a/9UAkmt_V
 2) ... <br>
 получить ссылку на репозиторий, загрузить в него java-файлы
-<br><br><br>
+<br><br> <br>
 
 Лабораторная работа 6. https://drive.google.com/file/d/15up0gFXZ9nvBki2hN0VmcRSXcooLCGln/view?usp=sharing<br><br>
 Как сдать лабораторную работу 06 + индивидуальные задачи

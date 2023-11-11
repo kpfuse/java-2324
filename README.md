@@ -1,13 +1,16 @@
-Лабораторная работа 09. https://drive.google.com/file/d/1Xu6jOX56HSL7_mKkYxvi0Y5CeA_P9jgb/view?usp=sharing  ><br>
+Контрольная работа по теме "Методы (функции)"
+сдать по ссылке https://classroom.github.com/a/v9G-d759 <br><br>
+
+Лабораторная работа 09. https://drive.google.com/file/d/1Xu6jOX56HSL7_mKkYxvi0Y5CeA_P9jgb/view?usp=sharing  <br>
 Как сдать лабораторную работу 09
-1) перейти по ссылке 
+1) перейти по ссылке https://classroom.github.com/a/-f8HqDcC <br>
 2) ... <br>
 получить ссылку на репозиторий, загрузить в него java-файлы
 <br><br> <br>
 
 Лабораторная работа 8. https://drive.google.com/file/d/1UQGs_xQRm33_vfl-aR2j6v1lc19Xmscd/view?usp=sharing<br><br>
 Как сдать лабораторную работу 08
-1) перейти по ссылке 
+1) перейти по ссылке https://classroom.github.com/a/_GOSzQHp <br>
 2) ... <br>
 получить ссылку на репозиторий, загрузить в него java-файлы
 <br><br> <br>

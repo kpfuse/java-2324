@@ -1,3 +1,9 @@
+Лабораторная работа 10. https://drive.google.com/file/d/1Cf81Hh8NUthFCA1uSPCw2AhUHzD4C5CP/view?usp=sharing <br>
+1) перейти по ссылке  <br>
+2) ... <br>
+получить ссылку на репозиторий, загрузить в него java-файлы
+<br><br> <br>
+
 Контрольная работа по теме "Методы (функции)"
 сдать по ссылке https://classroom.github.com/a/v9G-d759 <br><br>
 

@@ -1,3 +1,7 @@
+
+Контрольная работа (4) по теме "Классы и объекты - геометрические фигуры"
+сдать по ссылке https://classroom.github.com/a/P2sa95KW <br><br>
+
 Лабораторная работа 10. https://drive.google.com/file/d/1Cf81Hh8NUthFCA1uSPCw2AhUHzD4C5CP/view?usp=sharing <br>
 1) перейти по ссылке  https://classroom.github.com/a/x4JPYlBE <br>
 2) ... <br>

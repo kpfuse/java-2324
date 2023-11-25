@@ -1,5 +1,5 @@
 Лабораторная работа 10. https://drive.google.com/file/d/1Cf81Hh8NUthFCA1uSPCw2AhUHzD4C5CP/view?usp=sharing <br>
-1) перейти по ссылке  <br>
+1) перейти по ссылке  https://classroom.github.com/a/x4JPYlBE <br>
 2) ... <br>
 получить ссылку на репозиторий, загрузить в него java-файлы
 <br><br> <br>

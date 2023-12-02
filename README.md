@@ -1,10 +1,16 @@
 
-Контрольная работа (4) по теме "Классы и объекты - геометрические фигуры" <br><br>
+Лабораторная работа 11. https://drive.google.com/file/d/1cJFqPKrfWn25TR0ACnfaO47XHNyMjt0L/view?usp=sharing <br>
+1) перейти по ссылке   <br>
+2) ... 
+получить ссылку на репозиторий, загрузить в него java-файлы
+<br><br> <br>
+
+Контрольная работа (4) по теме "Классы и объекты - геометрические фигуры" <br>
 сдать по ссылке https://classroom.github.com/a/P2sa95KW <br><br>
 
 Лабораторная работа 10. https://drive.google.com/file/d/1Cf81Hh8NUthFCA1uSPCw2AhUHzD4C5CP/view?usp=sharing <br>
 1) перейти по ссылке  https://classroom.github.com/a/x4JPYlBE <br>
-2) ... <br>
+2) ... 
 получить ссылку на репозиторий, загрузить в него java-файлы
 <br><br> <br>
 
@@ -14,7 +20,7 @@
 Лабораторная работа 09. https://drive.google.com/file/d/1Xu6jOX56HSL7_mKkYxvi0Y5CeA_P9jgb/view?usp=sharing  <br>
 Как сдать лабораторную работу 09
 1) перейти по ссылке https://classroom.github.com/a/-f8HqDcC <br>
-2) ... <br>
+2) ... 
 получить ссылку на репозиторий, загрузить в него java-файлы
 <br><br> <br>
 

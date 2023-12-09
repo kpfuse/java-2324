@@ -1,4 +1,12 @@
+Курсы для самостоятельной работы <br>
+Online-курсы java на русском языке (бесплатные)<br>
+https://stepik.org/course/124803<br>
+https://stepik.org/course/187<br>
+https://stepik.org/course/90684 <br>
 
+java на английском - платно, но есть trial-период на 3 месяца; очень хорошие учебные материалы, задачи и тесты<br>
+https://hyperskill.org/tracks/15 (или любой другой track на hyperskill.org)<br>
+------------------------------------------------------------------------------<br><br>
 Лабораторная работа 12. https://drive.google.com/file/d/1N1kGf0ekGpQdHis4dnGLAgwrHkV4CYAM/view?usp=sharing <br>
 1) перейти по ссылке https://classroom.github.com/a/wx0FhWPC  <br>
 2) ... 

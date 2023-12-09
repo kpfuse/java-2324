@@ -1,6 +1,11 @@
 
+Лабораторная работа 12. https://drive.google.com/file/d/1N1kGf0ekGpQdHis4dnGLAgwrHkV4CYAM/view?usp=sharing <br>
+1) перейти по ссылке https://classroom.github.com/a/wx0FhWPC  <br>
+2) ... 
+получить ссылку на репозиторий, загрузить в него java-файлы
+<br><br> <br>
 Лабораторная работа 11. https://drive.google.com/file/d/1cJFqPKrfWn25TR0ACnfaO47XHNyMjt0L/view?usp=sharing <br>
-1) перейти по ссылке   <br>
+1) перейти по ссылке  https://classroom.github.com/a/O_IPccjh  <br>
 2) ... 
 получить ссылку на репозиторий, загрузить в него java-файлы
 <br><br> <br>

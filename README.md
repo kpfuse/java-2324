@@ -57,7 +57,9 @@ https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html - объяснен
 https://habr.com/ru/articles/575208/ - устройство и порядок инициализации элементов в enum<br>
 
 
-<br><br><br><br><br><br>
+<br><br>
+<hr>
+<br><br><br><br>
 
 
 

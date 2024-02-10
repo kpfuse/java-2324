@@ -40,7 +40,7 @@ int catchMice()<br>
 Создать UML-диаграмму иерархии классов Animal Cat Dog<br>
 
 
-
+<br><br><br><br><br><br><br>
 
 
 

@@ -40,7 +40,25 @@ int catchMice()<br>
 Создать UML-диаграмму иерархии классов Animal Cat Dog<br>
 
 
-<br><br><br><br><br><br><br>
+<br><br>
+Домашнее задание.<br>
+Прочитать темы, рассмотреть примеры<br>
+<br><br>
+Абстрактные классы<br>
+https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html<br> 
+https://metanit.com/java/tutorial/3.6.php<br> 
+<br><br>
+Интерфейсы<br>
+https://docs.oracle.com/javase/tutorial/java/IandI/createinterface.html<br> 
+https://metanit.com/java/tutorial/3.7.php<br> 
+<br><br>
+Enum<br>
+https://docs.oracle.com/javase/7/docs/api/java/lang/Enum.html - официальная документация<br>
+https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html - объяснения, примеры<br>
+https://habr.com/ru/articles/575208/ - устройство и порядок инициализации элементов в enum<br>
+
+
+<br><br><br><br><br><br>
 
 
 
